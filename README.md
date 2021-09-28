@@ -29,7 +29,7 @@ console.log(ISO3166.getCountryByCode("JPN"));
 ## how to make
 
 1. copy a table in Wikipedia ISO 3166-1 to the spread sheet
-2. save as CSV
+2. save as CSV "iso3166-1_temp.csv"
 3. deno run -A make.js
 
 
