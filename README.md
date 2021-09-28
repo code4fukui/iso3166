@@ -39,3 +39,7 @@ console.log(ISO3166.getCountryByCode("JPN"));
 - https://ja.wikipedia.org/wiki/ISO_3166-1
 - https://en.wikipedia.org/wiki/ISO_3166-1
 - https://fukuno.jig.jp/3352
+
+## related
+
+- https://github.com/code4fukui/BaseRegistry/blob/main/%E7%94%A8%E8%AA%9E.md
