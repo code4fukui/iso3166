@@ -5,8 +5,8 @@
 
 ## data
 
-- [iso3166-1.csv](iso3166-1.csv)
-- [iso3166-1.json](iso3166-1.json)
+- [iso3166-1.csv](https://code4fukui.github.io/iso3166/iso3166-1.csv)
+- [iso3166-1.json](https://code4fukui.github.io/iso3166/iso3166-1.json)
 
 ## library for JavaScript
 
