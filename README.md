@@ -2,6 +2,19 @@
 
 ISO3166 (JIS X 0304)
 
+## data
+
+- [iso3166_1.csv](iso3166_1.csv)
+- [iso3166_1.json](iso3166_1.json)
+
+## library for JavaScript
+
+```js
+import { ISO3166 } from "https://code4fukui.github.io/iso3166/ISO3166.js";
+
+console.log(ISO3166.getCountryByCode("JPN"));
+```
+
 ## how to make
 
 1. copy a table in Wikipedia ISO 3166-1 to the spread sheet
