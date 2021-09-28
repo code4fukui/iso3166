@@ -1,6 +1,7 @@
 # iso3166
 
-ISO3166 (JIS X 0304)
+- ISO3166 (JIS X 0304)
+- 249 countries
 
 ## data
 
